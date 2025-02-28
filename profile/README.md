@@ -2,11 +2,9 @@
 
 ## Quick Links
 
-| Service | URL |
-|---------|-----|
-| PCC Login | [Login Here](https://bit.ly/PointClickCareLogin) |
-| Request a Demo | [Request Here](https://bit.ly/PointClickCareLogin) |
-| Customer Support | [Support Portal](https://bit.ly/PointClickCareLogin) |
+### PCC Login [Login Here](https://bit.ly/PointClickCareLogin)
+### Request a Demo [Request Here](https://bit.ly/PointClickCareLogin)
+### Customer Support [Support Portal](https://bit.ly/PointClickCareLogin)
 
 ## Overview
 
